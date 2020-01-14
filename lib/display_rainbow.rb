@@ -1,4 +1,4 @@
-def "#display_rainbow" display_rainbow(rainbow=['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
+def "#display_rainbow"(rainbow=['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
   puts "R: #{rainbow[0]}"
   puts "O: #{rainbow[1]}"
   puts "Y: #{rainbow[2]}"
