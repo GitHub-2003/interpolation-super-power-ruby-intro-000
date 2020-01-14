@@ -9,4 +9,4 @@ def display_rainbow(rainbow=['red', 'orange', 'yellow', 'green', 'blue', 'indigo
 end
 
 display_rainbow
-display_rainbow"(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
+display_rainbow(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
